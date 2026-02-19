@@ -11,6 +11,18 @@ A web application that leverages Google's Generative AI (Gemini 1.5 Flash) to ge
 - **Word count control**: Set the approximate length of the generated description (50–2000 words).
 - **Random historical facts**: Learn something new while waiting for the AI to generate content.
 - **Clean, intuitive UI**: Built with Streamlit for rapid interaction.
+  
+## 🚀 Live Demo
+
+Try the app here: **[artifacts-description.streamlit.app](https://artifacts-description.streamlit.app)**
+
+## 📂 Project Structure
+.
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── .env # Environment variables (local only, not committed)
+├── .gitignore # Files to exclude from Git
+└── README.md # Project documentation
 
 ## How It Works
 
@@ -32,3 +44,29 @@ A web application that leverages Google's Generative AI (Gemini 1.5 Flash) to ge
    ```bash
    git clone https://github.com/yourusername/gemini-historical-artifact.git
    cd gemini-historical-artifact
+   
+📄 Detailed Project Description
+For a comprehensive overview, including design decisions and implementation details, see the project description on Google Drive:
+Project Description – Google Drive
+
+🧰 Technologies Used
+Frontend & Backend: Streamlit
+
+AI Model: Google Gemini 1.5 Flash
+
+Image Handling: Pillow (PIL)
+
+Environment Management: python-dotenv
+
+🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+🙏 Acknowledgements
+Google Gemini API for the powerful language model.
+
+Streamlit for making web app development so easy.
+
+All the historical facts contributors.
