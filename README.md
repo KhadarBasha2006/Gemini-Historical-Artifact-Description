@@ -2,7 +2,6 @@
 
 A web application that leverages Google's Generative AI (Gemini 1.5 Flash) to generate rich, detailed descriptions of historical artifacts. Users can input an artifact name or historical period, specify a desired word count, and optionally upload an image. While the AI generates the content, a random historical fact is displayed to keep the user engaged.
 
-![App Screenshot](screenshot.png) *(Add a screenshot of your app here)*
 
 ## Features
 
@@ -15,10 +14,9 @@ A web application that leverages Google's Generative AI (Gemini 1.5 Flash) to ge
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 🚀 Live Demo
-https://youtu.be/PG8lyu4RXuA?si=dbXaAaEoYLM84WdO
 
 ## 🔗 Drive 
+
 
 
 ## 📂 Project Structure
