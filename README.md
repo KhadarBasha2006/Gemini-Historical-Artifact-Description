@@ -17,10 +17,10 @@ This project is licensed under the MIT License.
 
 ## 🚀 Live Demo
 https://youtu.be/PG8lyu4RXuA?si=dbXaAaEoYLM84WdO
-Try the app here: **[artifacts-description.streamlit.app](https://artifacts-description.streamlit.app)**
 
 ## 🔗 Drive 
-https://drive.google.com/drive/folders/1cdVMCo9TqlWRkPG76JBZw_PQ6Ln7_mbY?usp=sharing
+
+
 ## 📂 Project Structure
 .
 ├── app.py # Main Streamlit application
